@@ -3,5 +3,6 @@
 9:30 - Continue MERN stack video
 10:15 - Continue MERN video, read Next.js documentation
 11:00 - Watch video on using Node (https://www.youtube.com/watch?v=TlB_eWDSMt4)
-12:00 - Finish Node
-12:45 - 
+12:00 - Continue/finish Node
+12:45 ~ 1:55 Lunch
+2:00 - Watch video on Node Express
