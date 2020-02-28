@@ -7,3 +7,4 @@
 12:45 ~ 1:55 Lunch
 2:00 - Watch video on Node Express (https://www.youtube.com/watch?v=pKd0Rpw7O48)
 2:50 - Finish video, start writing data mockups
+3:30 - Research Express, continue notes

@@ -1,0 +1,8 @@
+- Do NOT need user creation => site is intended to be integrated into already existing database
+    - DO need mock data for students and classes, in this case
+    -
+
+- students sign in to make tutor requests, or provide student ID
+- request sends POST to database tracking tutor requests
+- students can remove a request with a PATCH (request kept, changed to closed)
+- students can 
