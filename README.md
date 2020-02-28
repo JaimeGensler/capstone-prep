@@ -5,4 +5,5 @@
 11:00 - Watch video on using Node (https://www.youtube.com/watch?v=TlB_eWDSMt4)
 12:00 - Continue/finish Node
 12:45 ~ 1:55 Lunch
-2:00 - Watch video on Node Express
+2:00 - Watch video on Node Express (https://www.youtube.com/watch?v=pKd0Rpw7O48)
+2:50 - Finish video, start writing data mockups
