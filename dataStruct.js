@@ -15,8 +15,9 @@ const jaime = {
 Tutor {
     name: String,
     standing: String,
-    currentClasses: Array of Strings,
-    tutorType: [String, String]
+    currentClasses: [String, String],
+    tutorType: [String, String],
+    tutorableClasses: [String, String] //this would be good for both writing and content tutoring
 }
 
 
