@@ -9,4 +9,4 @@
 2:50 - Finish video, start writing data mockups
 3:30 - Research Express, continue notes
 4:00 - Write out structure of data
-4:30 - 
+4:30 - Further write data structure, read more Next.js documentation
