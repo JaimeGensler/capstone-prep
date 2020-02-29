@@ -8,3 +8,5 @@
 2:00 - Watch video on Node Express (https://www.youtube.com/watch?v=pKd0Rpw7O48)
 2:50 - Finish video, start writing data mockups
 3:30 - Research Express, continue notes
+4:00 - Write out structure of data
+4:30 - 

@@ -5,4 +5,3 @@
 - students sign in to make tutor requests, or provide student ID
 - request sends POST to database tracking tutor requests
 - students can remove a request with a PATCH (request kept, changed to closed)
-- students can 
